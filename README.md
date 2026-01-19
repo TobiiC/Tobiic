@@ -6,8 +6,8 @@ Soy un desarrollador de Argentina apasionado por la resolución de problemas med
 ---
 
 ### 🛠️ Tecnologías y Herramientas
-- **Lenguajes:** Python, HTML5, CSS3
-- **Herramientas:** Git, GitHub, VS Code
+- **Lenguajes:** Python, SQL, HTML5, CSS3
+- **Herramientas:** Git, GitHub, VS Code, MySQL
 - **Enfoque actual:** Desarrollo de sistemas de gestión y lógica de programación.
 
 ---
@@ -20,7 +20,6 @@ Soy un desarrollador de Argentina apasionado por la resolución de problemas med
 
 ### 📊 Estadísticas de GitHub
 ![Stats de TobiiC](https://github-readme-stats.vercel.app/api?username=TobiiC&show_icons=true&theme=dark&hide_border=true&title_color=00d2ff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TobiiC&layout=compact&theme=dark&hide_border=true&title_color=00d2ff)
 
 ---
 

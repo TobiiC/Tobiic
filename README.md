@@ -1,22 +1,23 @@
 # ¡Hola! Soy Tobías Correa 👋
 
-### 🐍 Python Developer | Backend Enthusiast
-Soy un desarrollador de Argentina apasionado por la resolución de problemas mediante el código y la automatización. Actualmente enfocado en perfeccionar mis habilidades en el ecosistema de Python.
+### 🚀 Junior Developer | IT Functional Consultant
+[cite_start]Soy un desarrollador y estudiante de la **Tecnicatura en Programación (UTN)** con experiencia práctica en el ciclo completo de desarrollo de software[cite: 6, 8, 29].
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
-- **Lenguajes:** Python, SQL, HTML5, CSS3
-- **Herramientas:** Git, GitHub, VS Code, MySQL
-- **Enfoque actual:** Desarrollo de sistemas de gestión y lógica de programación.
+### 💼 Experiencia & Proyectos
+* [cite_start]**Consultor Funcional en EDISON** (Diciembre 2022 – Actualidad): Gestión de procesos digitales y UX utilizando SAP Qualtrics y SAP SEN[cite: 18, 19, 20].
+* [cite_start]**Full Stack Developer (Prácticas)** en Sociedad de Bomberos Voluntarios Chivilcoy: Desarrollé una aplicación web de gestión de incidentes con **C# y Blazor**, digitalizando procesos críticos[cite: 23, 24, 25, 26].
 
 ---
 
-### 🚀 Proyecto Destacado
-**[Gestión-Psicologo](https://github.com/TobiiC/Gestion-Psicologo)**
-*Sistema de gestión diseñado para profesionales de la psicología, optimizando la organización de consultas y datos.*
+### 🛠️ Tech Stack
+* [cite_start]**Lenguajes:** Python (FastAPI, Django), C#, SQL[cite: 11, 12].
+* [cite_start]**Frontend:** Blazor, HTML5, CSS3[cite: 12].
+* [cite_start]**Herramientas:** Git, GitHub, Visual Studio, VS Code, SAP Qualtrics[cite: 13, 15].
 
 ---
+
 
 ### 📊 Estadísticas de GitHub
 ![Stats de TobiiC](https://github-readme-stats.vercel.app/api?username=TobiiC&show_icons=true&theme=dark&hide_border=true&title_color=00d2ff)
@@ -24,5 +25,6 @@ Soy un desarrollador de Argentina apasionado por la resolución de problemas med
 ---
 
 ### 📫 Conectemos
-- **LinkedIn:** [linkedin.com/in/tobias-b-correa](https://www.linkedin.com/in/tobias-b-correa)
-- **Ubicación:** Buenos Aires, Argentina 🇦🇷
+- **LinkedIn:** [linkedin.com/in/tobias-b-correa](https://www.linkedin.com/in/tobias-b-correa/)
+- [cite_start]**Email:** [tobiasbcorrea@gmail.com](mailto:tobiasbcorrea@gmail.com) [cite: 3]
+- [cite_start]**Ubicación:**Buenos Aires, Argentina 🇦🇷 [cite: 4]

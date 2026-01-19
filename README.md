@@ -1,7 +1,11 @@
 # ¡Hola! Soy Tobías Correa 👋
 
-### [![Python](https://img.shields.io/badge/Python-3.10+-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://python.org) 🐍 Python Developer | Backend Enthusiast
-Soy un desarrollador de Argentina apasionado por la resolución de problemas mediante el código y la automatización. Actualmente enfocado en perfeccionar mis habilidades en el ecosistema de Python.
+### [![Python](https://img.shields.io/badge/Python-3.10+-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://python.org) 
+
+🐍 Python Developer | Backend Enthusiast
+
+Soy un desarrollador de Argentina apasionado por la resolución de problemas mediante el código y la automatización. 
+Actualmente enfocado en perfeccionar mis habilidades en el ecosistema de Python.
 
 ---
 

@@ -1,0 +1,29 @@
+# ¡Hola! Soy Tobías Correa 👋
+
+### 🐍 Python Developer | Backend Enthusiast
+Soy un desarrollador de Argentina apasionado por la resolución de problemas mediante el código y la automatización. Actualmente enfocado en perfeccionar mis habilidades en el ecosistema de Python.
+
+---
+
+### 🛠️ Tecnologías y Herramientas
+- **Lenguajes:** Python, HTML5, CSS3
+- **Herramientas:** Git, GitHub, VS Code
+- **Enfoque actual:** Desarrollo de sistemas de gestión y lógica de programación.
+
+---
+
+### 🚀 Proyecto Destacado
+**[Gestión-Psicologo](https://github.com/TobiiC/Gestion-Psicologo)**
+*Sistema de gestión diseñado para profesionales de la psicología, optimizando la organización de consultas y datos.*
+
+---
+
+### 📊 Estadísticas de GitHub
+![Stats de TobiiC](https://github-readme-stats.vercel.app/api?username=TobiiC&show_icons=true&theme=dark&hide_border=true&title_color=00d2ff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TobiiC&layout=compact&theme=dark&hide_border=true&title_color=00d2ff)
+
+---
+
+### 📫 Conectemos
+- **LinkedIn:** [linkedin.com/in/tobias-b-correa](https://www.linkedin.com/in/tobias-b-correa)
+- **Ubicación:** Buenos Aires, Argentina 🇦🇷

@@ -8,13 +8,13 @@ Soy un Desarrollador independiente y Consultor apasionado por la tecnología y r
 
 #### 💻 Lenguajes
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
   <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white">
   <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff">
   <img src="https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?logo=powershell-white&logoColor=fff">
+  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
 </p>
 
 #### 📚 Frameworks y Librerías
